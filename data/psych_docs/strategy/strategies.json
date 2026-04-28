@@ -1,0 +1,9 @@
+{
+  "自我否定": ["empathy", "reflection", "cognitive_check", "open_question"],
+  "焦虑": ["empathy", "grounding", "suggestion", "open_question"],
+  "压力": ["empathy", "stress_split", "suggestion", "open_question"],
+  "情绪低落": ["empathy", "reflection", "behavior_activation", "open_question"],
+  "倾诉": ["empathy", "reflection", "open_question"],
+  "默认": ["empathy", "reflection", "open_question", "suggestion"]
+}
+
